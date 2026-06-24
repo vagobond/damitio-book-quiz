@@ -77,121 +77,121 @@ const quizData = {
   books: [
     {
       title: "Rough Living: Tips and Tales of Vagobond",
-      match: ["adventure", "memoir", "travel", "anti-tech", "modern", "practical", "grounded"],
+      match: ["adventure", "memoir", "travel", "anti-tech", "modern", "practical", "grounded", "cynical-hopeful"],
       description: "A practical guide and memoir about living unconventionally. Perfect if you're interested in alternative lifestyles, travel stories, and real-world tips for living on your own terms.",
       emoji: "🧳"
     },
     {
       title: "Petshitter: Unfortunate Names Made Good",
-      match: ["tech", "satire", "critical-tech", "ironic-tech", "modern", "entertainment"],
+      match: ["tech", "satire", "critical-tech", "ironic-tech", "modern", "entertainment", "exploration", "cynical-hopeful"],
       description: "A Silicon Valley romance and sharp critique of tech culture. For those who love satirical takes on the tech industry and can laugh at its absurdities.",
       emoji: "💻"
     },
     {
       title: "Blue Eyed Bastards",
-      match: ["bizarre", "dark", "future", "ironic-tech", "satire", "experimental", "weird"],
+      match: ["bizarre", "dark", "future", "ironic-tech", "satire", "experimental", "weird", "entertainment"],
       description: "The world's first novel co-written with AI. A bizarre, apocalyptic adventure blending human and artificial intelligence. Perfect for experimental readers.",
       emoji: "🤖"
     },
     {
       title: "Hasan-i-Sabah: How the World's Most Successful Mystic and Warlord Tuned In, Turned On, and Dropped Out",
-      match: ["spiritual", "historical", "internal", "philosophy", "timeless", "exploration", "thoughtful"],
+      match: ["spiritual", "historical", "internal", "philosophy", "timeless", "exploration", "thoughtful", "concerned"],
       description: "An exploration of a legendary historical figure who mastered both spirituality and strategy. Ideal for those interested in mysticism, history, and unconventional enlightenment.",
       emoji: "🧘"
     },
     {
       title: "The Ghosts of Intimacy: A Novella of Regret",
-      match: ["personal", "intimate", "internal", "timeless", "dark", "human", "thoughtful"],
+      match: ["personal", "intimate", "internal", "timeless", "dark", "human", "thoughtful", "philosophy"],
       description: "A deeply personal exploration of relationships, regret, and intimate human connections. Perfect for those seeking emotionally resonant, introspective fiction.",
       emoji: "💔"
     },
     {
       title: "Notes from Nowhere: A Blueprint for a Better World",
-      match: ["philosophy", "spiritual", "internal", "anti-tech", "future", "exploration", "optimistic"],
+      match: ["philosophy", "spiritual", "internal", "anti-tech", "future", "exploration", "optimistic", "concerned"],
       description: "Visionary and thought-provoking, offering alternative perspectives on society and personal fulfillment. Great for idealists reimagining how to live.",
       emoji: "🌍"
     },
     {
       title: "Not My America: A Stranger in My Strange Land",
-      match: ["modern", "satire", "anti-tech", "travel", "critical-tech", "exploration", "cynical-hopeful"],
+      match: ["modern", "satire", "anti-tech", "travel", "critical-tech", "exploration", "cynical-hopeful", "concerned"],
       description: "A critical and humorous examination of modern America from an outsider's perspective. Perfect for those questioning society and seeking alternative viewpoints.",
       emoji: "🗽"
     },
     {
       title: "Liminal Travel: The Spaces in Between",
-      match: ["travel", "internal", "philosophy", "adventure", "timeless", "exploration", "thoughtful"],
+      match: ["travel", "internal", "philosophy", "adventure", "timeless", "exploration", "thoughtful", "practical"],
       description: "A guide to more fulfilling travel and life through exploring liminal spaces and transitions. Ideal for thoughtful travelers seeking deeper meaning in movement.",
       emoji: "🚶"
     },
     {
       title: "Lost in Transmedia: Exploring Fandom, Transmedia, and the Birth of Electronic Anthropology",
-      match: ["philosophy", "exploration", "tech", "modern", "experimental", "thoughtful"],
+      match: ["philosophy", "exploration", "tech", "modern", "experimental", "thoughtful", "entertainment", "future"],
       description: "An academic exploration of fandom, media, and culture in the digital age. Perfect for those interested in how technology shapes human storytelling and community.",
       emoji: "📺"
     },
     {
       title: "What Am I Doing Here?: 52 Weeks of Wandering and Wondering",
-      match: ["adventure", "memoir", "travel", "internal", "exploration", "grounded"],
+      match: ["adventure", "memoir", "travel", "internal", "exploration", "grounded", "thoughtful", "timeless"],
       description: "A year-long journey of self-discovery told through weekly reflections. Ideal for those on their own journey of introspection and wanderlust.",
       emoji: "❓"
     },
     {
       title: "A Very Good Novel Coronavirus: Book 1",
-      match: ["modern", "dark", "satire", "bizarre", "apocalyptic", "entertainment", "weird"],
+      match: ["modern", "dark", "satire", "bizarre", "apocalyptic", "entertainment", "weird", "cynical-hopeful"],
       description: "A satirical take on pandemic times with dark humor. Perfect for those who appreciate societal commentary wrapped in speculative fiction.",
       emoji: "🦠"
     },
     {
       title: "The Fucking People: A Bizarre Apocalyptic Novel",
-      match: ["dark", "bizarre", "apocalyptic", "satire", "weird", "entertainment", "cynical-hopeful"],
+      match: ["dark", "bizarre", "apocalyptic", "satire", "weird", "entertainment", "cynical-hopeful", "future"],
       description: "An unapologetically strange apocalyptic tale. For readers who want boundary-pushing, unconventional storytelling with dark humor.",
       emoji: "💣"
     },
     {
       title: "The Odd Decade: Ten Years of Stories Too Strange to Make Up",
-      match: ["memoir", "travel", "weird", "entertainment", "adventure", "grounded"],
+      match: ["memoir", "travel", "weird", "entertainment", "adventure", "grounded", "modern", "cynical-hopeful"],
       description: "A collection of real stories from a decade of unconventional living. Perfect for those who appreciate bizarre true tales over fiction.",
       emoji: "📖"
     },
     {
       title: "Sly Doubt of Uranus: The History of a Lovable Asshole",
-      match: ["satire", "dark", "weird", "entertainment", "cynical-hopeful", "bizarre"],
+      match: ["satire", "dark", "weird", "entertainment", "cynical-hopeful", "bizarre", "philosophy", "human"],
       description: "A comedic and irreverent look at a flawed character. Great for those who enjoy satirical character studies with dark humor.",
       emoji: "😈"
     },
     {
       title: "TFP2: The Wide Path",
-      match: ["dark", "bizarre", "apocalyptic", "entertainment", "weird", "thoughtful"],
+      match: ["dark", "bizarre", "apocalyptic", "entertainment", "weird", "thoughtful", "future", "satire"],
       description: "The sequel to The Fucking People. Continues the apocalyptic saga with more strange characters and dark humor.",
       emoji: "🛣️"
     },
     {
       title: "You Are the Hero We Need: How to Save the World Without Losing Yourself",
-      match: ["spiritual", "philosophy", "inspiration", "optimistic", "internal", "exploration"],
+      match: ["spiritual", "philosophy", "optimistic", "internal", "exploration", "practical", "human", "concerned"],
       description: "An empowering guide about personal transformation and making a difference. Perfect for those seeking purpose and positive change.",
       emoji: "🦸"
     },
     {
       title: "Sly Doubt of Uranus: The Ethereum Priests",
-      match: ["tech", "future", "philosophical", "experimental", "modern", "ironic-tech"],
+      match: ["tech", "future", "philosophy", "experimental", "modern", "ironic-tech", "exploration", "thoughtful"],
       description: "A speculative exploration of cryptocurrency, religion, and future technology. For tech-curious minds interested in where society might be headed.",
       emoji: "⛪"
     },
     {
       title: "The Anarchist Manifesto Project: Manifestos from AI Anarchists",
-      match: ["philosophy", "experimental", "tech", "future", "dark", "exploration", "thoughtful"],
+      match: ["philosophy", "experimental", "tech", "future", "dark", "exploration", "thoughtful", "concerned"],
       description: "A collection of manifestos exploring anarchism through the lens of AI. Perfect for those interested in political philosophy and technological futures.",
       emoji: "🚩"
     },
     {
       title: "Kitsune No Haru: Satoshi Manor",
-      match: ["weird", "bizarre", "experimental", "entertainment", "strange", "timeless"],
+      match: ["weird", "bizarre", "experimental", "entertainment", "thoughtful", "timeless", "dark", "philosophy"],
       description: "A peculiar tale blending Japanese mythology with mystery. For those who enjoy unconventional narratives and cultural fusion.",
       emoji: "🦊"
     },
     {
       title: "The Eye of Zogozogora",
-      match: ["bizarre", "future", "weird", "experimental", "entertainment", "dark"],
+      match: ["bizarre", "future", "weird", "experimental", "entertainment", "dark", "ironic-tech", "thoughtful"],
       description: "Book 2 in the Blue Eyed Bastards series. Continues the wild AI-human collaborative storytelling adventure into increasingly strange territory.",
       emoji: "👁️"
     }
@@ -292,7 +292,7 @@ function showResults() {
       </div>
 
       <div class="final-message">
-        Based on your answers, this book aligns perfectly with your interests and worldview!
+        ${matchPercentage === 100 ? "🎉 PERFECT ALIGNMENT! This book was made for you!" : "Based on your answers, this book aligns perfectly with your interests and worldview!"}
       </div>
 
       <button class="btn-restart" onclick="restartQuiz()">Take Quiz Again</button>
@@ -305,7 +305,7 @@ function showResults() {
 function calculateMatches() {
   const scores = quizData.books.map(book => {
     let score = 0;
-    answers.forEach((answer, index) => {
+    answers.forEach((answer) => {
       if (book.match.includes(answer)) {
         score++;
       }
