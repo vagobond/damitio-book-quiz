@@ -79,121 +79,141 @@ const quizData = {
       title: "Rough Living: Tips and Tales of Vagobond",
       match: ["adventure", "memoir", "travel", "anti-tech", "modern", "practical", "grounded", "cynical-hopeful"],
       description: "A practical guide and memoir about living unconventionally. Perfect if you're interested in alternative lifestyles, travel stories, and real-world tips for living on your own terms.",
-      emoji: "🧳"
+      emoji: "🧳",
+      amazon: "https://www.amazon.com/Rough-Living-Vagobond-Slightly-updated/dp/1939827531"
     },
     {
       title: "Petshitter: Unfortunate Names Made Good",
       match: ["tech", "satire", "critical-tech", "ironic-tech", "modern", "entertainment", "exploration", "cynical-hopeful"],
       description: "A Silicon Valley romance and sharp critique of tech culture. For those who love satirical takes on the tech industry and can laugh at its absurdities.",
-      emoji: "💻"
+      emoji: "💻",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0BPXSGT59"
     },
     {
       title: "Blue Eyed Bastards",
       match: ["bizarre", "dark", "future", "ironic-tech", "satire", "experimental", "weird", "entertainment"],
       description: "The world's first novel co-written with AI. A bizarre, apocalyptic adventure blending human and artificial intelligence. Perfect for experimental readers.",
-      emoji: "🤖"
+      emoji: "🤖",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0GLJZPG7B"
     },
     {
       title: "Hasan-i-Sabah: How the World's Most Successful Mystic and Warlord Tuned In, Turned On, and Dropped Out",
       match: ["spiritual", "historical", "internal", "philosophy", "timeless", "exploration", "thoughtful", "concerned"],
       description: "An exploration of a legendary historical figure who mastered both spirituality and strategy. Ideal for those interested in mysticism, history, and unconventional enlightenment.",
-      emoji: "🧘"
+      emoji: "🧘",
+      amazon: "https://www.amazon.com/Hasan-i-Sabah-Successful-Warlord-Sultanate-Chronicles-ebook/dp/B0CTDP5KFW"
     },
     {
       title: "The Ghosts of Intimacy: A Novella of Regret",
       match: ["personal", "intimate", "internal", "timeless", "dark", "human", "thoughtful", "philosophy"],
       description: "A deeply personal exploration of relationships, regret, and intimate human connections. Perfect for those seeking emotionally resonant, introspective fiction.",
-      emoji: "💔"
+      emoji: "💔",
+      amazon: "https://www.amazon.com/Ghosts-Intimacy-Novella-Regret/dp/1939827515"
     },
     {
       title: "Notes from Nowhere: A Blueprint for a Better World",
       match: ["philosophy", "spiritual", "internal", "anti-tech", "future", "exploration", "optimistic", "concerned"],
       description: "Visionary and thought-provoking, offering alternative perspectives on society and personal fulfillment. Great for idealists reimagining how to live.",
-      emoji: "🌍"
+      emoji: "🌍",
+      amazon: "https://www.amazon.com/-/es/CD-Damitio/dp/1939827221"
     },
     {
       title: "Not My America: A Stranger in My Strange Land",
       match: ["modern", "satire", "anti-tech", "travel", "critical-tech", "exploration", "cynical-hopeful", "concerned"],
       description: "A critical and humorous examination of modern America from an outsider's perspective. Perfect for those questioning society and seeking alternative viewpoints.",
-      emoji: "🗽"
+      emoji: "🗽",
+      amazon: "https://www.amazon.com/Not-My-America-Stranger-Strange-ebook/dp/B0G3C44X7D"
     },
     {
       title: "Liminal Travel: The Spaces in Between",
       match: ["travel", "internal", "philosophy", "adventure", "timeless", "exploration", "thoughtful", "practical"],
       description: "A guide to more fulfilling travel and life through exploring liminal spaces and transitions. Ideal for thoughtful travelers seeking deeper meaning in movement.",
-      emoji: "🚶"
+      emoji: "🚶",
+      amazon: "https://www.amazon.com/Liminal-Travel-Spaces-Between-Fulfilling/dp/1939827086"
     },
     {
       title: "Lost in Transmedia: Exploring Fandom, Transmedia, and the Birth of Electronic Anthropology",
       match: ["philosophy", "exploration", "tech", "modern", "experimental", "thoughtful", "entertainment", "future"],
       description: "An academic exploration of fandom, media, and culture in the digital age. Perfect for those interested in how technology shapes human storytelling and community.",
-      emoji: "📺"
+      emoji: "📺",
+      amazon: "https://www.amazon.com/Lost-Transmedia-Exploring-Electronic-Anthropology/dp/1939827582"
     },
     {
       title: "What Am I Doing Here?: 52 Weeks of Wandering and Wondering",
       match: ["adventure", "memoir", "travel", "internal", "exploration", "grounded", "thoughtful", "timeless"],
       description: "A year-long journey of self-discovery told through weekly reflections. Ideal for those on their own journey of introspection and wanderlust.",
-      emoji: "❓"
+      emoji: "❓",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0D35FLPCB"
     },
     {
       title: "A Very Good Novel Coronavirus: Book 1",
       match: ["modern", "dark", "satire", "bizarre", "apocalyptic", "entertainment", "weird", "cynical-hopeful"],
       description: "A satirical take on pandemic times with dark humor. Perfect for those who appreciate societal commentary wrapped in speculative fiction.",
-      emoji: "🦠"
+      emoji: "🦠",
+      amazon: "https://www.amazon.com/Very-Good-Novel-Coronavirus-Book-ebook/dp/B0GHT3QDD2"
     },
     {
       title: "The Fucking People: A Bizarre Apocalyptic Novel",
       match: ["dark", "bizarre", "apocalyptic", "satire", "weird", "entertainment", "cynical-hopeful", "future"],
       description: "An unapologetically strange apocalyptic tale. For readers who want boundary-pushing, unconventional storytelling with dark humor.",
-      emoji: "💣"
+      emoji: "💣",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0DZCSTC8X"
     },
     {
       title: "The Odd Decade: Ten Years of Stories Too Strange to Make Up",
       match: ["memoir", "travel", "weird", "entertainment", "adventure", "grounded", "modern", "cynical-hopeful"],
       description: "A collection of real stories from a decade of unconventional living. Perfect for those who appreciate bizarre true tales over fiction.",
-      emoji: "📖"
+      emoji: "📖",
+      amazon: "https://www.amazon.com/Odd-Decade-Years-Stories-Strange-ebook/dp/B0GXZH3MHM"
     },
     {
       title: "Sly Doubt of Uranus: The History of a Lovable Asshole",
       match: ["satire", "dark", "weird", "entertainment", "cynical-hopeful", "bizarre", "philosophy", "human"],
       description: "A comedic and irreverent look at a flawed character. Great for those who enjoy satirical character studies with dark humor.",
-      emoji: "😈"
+      emoji: "😈",
+      amazon: "https://www.amazon.com/Sly-Doubt-Uranus-History-Lovable-ebook/dp/B0BQGZN1TK"
     },
     {
       title: "TFP2: The Wide Path",
       match: ["dark", "bizarre", "apocalyptic", "entertainment", "weird", "thoughtful", "future", "satire"],
       description: "The sequel to The Fucking People. Continues the apocalyptic saga with more strange characters and dark humor.",
-      emoji: "🛣️"
+      emoji: "🛣️",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0GX2Y5WC4"
     },
     {
       title: "You Are the Hero We Need: How to Save the World Without Losing Yourself",
       match: ["spiritual", "philosophy", "optimistic", "internal", "exploration", "practical", "human", "concerned"],
       description: "An empowering guide about personal transformation and making a difference. Perfect for those seeking purpose and positive change.",
-      emoji: "🦸"
+      emoji: "🦸",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0H2FJ2NLT"
     },
     {
       title: "Sly Doubt of Uranus: The Ethereum Priests",
       match: ["tech", "future", "philosophy", "experimental", "modern", "ironic-tech", "exploration", "thoughtful"],
       description: "A speculative exploration of cryptocurrency, religion, and future technology. For tech-curious minds interested in where society might be headed.",
-      emoji: "⛪"
+      emoji: "⛪",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0GYB258NP"
     },
     {
       title: "The Anarchist Manifesto Project: Manifestos from AI Anarchists",
       match: ["philosophy", "experimental", "tech", "future", "dark", "exploration", "thoughtful", "concerned"],
       description: "A collection of manifestos exploring anarchism through the lens of AI. Perfect for those interested in political philosophy and technological futures.",
-      emoji: "🚩"
+      emoji: "🚩",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0FNJMXW6C"
     },
     {
       title: "Kitsune No Haru: Satoshi Manor",
       match: ["weird", "bizarre", "experimental", "entertainment", "thoughtful", "timeless", "dark", "philosophy"],
       description: "A peculiar tale blending Japanese mythology with mystery. For those who enjoy unconventional narratives and cultural fusion.",
-      emoji: "🦊"
+      emoji: "🦊",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0GXX13NGC"
     },
     {
       title: "The Eye of Zogozogora",
       match: ["bizarre", "future", "weird", "experimental", "entertainment", "dark", "ironic-tech", "thoughtful"],
       description: "Book 2 in the Blue Eyed Bastards series. Continues the wild AI-human collaborative storytelling adventure into increasingly strange territory.",
-      emoji: "👁️"
+      emoji: "👁️",
+      amazon: "https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0GYQ7HQT3"
     }
   ]
 };
@@ -288,7 +308,7 @@ function showResults() {
         <div class="book-title">${book.emoji} ${book.title}</div>
         <div class="book-match-percentage">${matchPercentage}% Match</div>
         <div class="book-description">${book.description}</div>
-        <a href="https://www.amazon.com/s?i=stripbooks&rh=p_27%3ACD+Damitio" target="_blank" class="amazon-link">Check on Amazon 🛒</a>
+        <a href="${book.amazon}" target="_blank" class="amazon-link">Check on Amazon 🛒</a>
       </div>
 
       <div class="final-message">
